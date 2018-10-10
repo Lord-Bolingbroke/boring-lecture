@@ -1,0 +1,14 @@
+h2.intro {
+  color: red;
+  text-align: center;
+}
+
+p.intro {
+  width: 80%;
+  text-align: justify;
+  text-shadow: 2px 2px #ff0000;
+}
+
+img.intro {
+  border: 5px solid black;
+}
