@@ -22,3 +22,13 @@ p.intro {
 img.intro {
   border: 5px solid black;
 }
+
+.p1 {
+  border: solid black;
+  background-color: #fff2ac;
+}
+
+.p2 {
+  border: solid black;
+  background-color: #fff2ac;
+}

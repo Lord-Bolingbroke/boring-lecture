@@ -9,4 +9,15 @@ $(document).ready(function() {
     $("body").addClass("light-theme");
   });
 
+  $("#p1").click(function() {
+    $("body").removeClass();
+    $("#p1").addClass("p1");
+  });
+
+  $("#p2").click(function() {
+    $("body").removeClass();
+    $("#p2").addClass("p2");
+  });
+
+
 });
