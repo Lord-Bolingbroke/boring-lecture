@@ -1,3 +1,13 @@
+.dark-theme {
+  background-color: black;
+  color: white;
+}
+
+.light-theme {
+  background-color: white;
+  color: black;
+}
+
 h2.intro {
   color: red;
   text-align: center;
